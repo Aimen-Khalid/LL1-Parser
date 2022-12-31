@@ -1,0 +1,24 @@
+PROG	def	
+PROG'	def	~	
+DEC	def	
+COL	:	
+KEY	def	
+VARDEC	id	Comma	~	
+VARDECNE	id	
+VARDECNE'	Comma	~	
+BLOCK	{	
+ENE	(	num	if	while	for	print	int	float	str	id	~	
+EXP	(	num	if	while	for	print	int	float	str	id	
+EXP'	~	(	=	
+EXP''	(	num	if	while	for	print	int	float	str	id	input	
+KEYWORD	int	float	str	
+QUOTES	q	
+STRING	num	
+STRING'	id	~	
+ARGS	(	num	if	while	for	print	int	float	str	id	~	
+ARGSNE	(	num	if	while	for	print	int	float	str	id	
+ARGSNE'	Comma	~	
+OPLIT	in	not in	
+IDFR	id	
+INTLIT	num	
+BINOP	==	<	>	<=	>=	+	*	-	%	/	and	or	!=	

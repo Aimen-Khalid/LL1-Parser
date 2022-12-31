@@ -1,0 +1,25 @@
+	(	)	:	def	Comma	{	}	if	then	else	while	for	print	=	input	int	float	str	q	in	not in	id	num	==	<	>	<=	>=	+	*	-	%	/	and	or	!=	$	
+PROG	 	 	 	0	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+PROG'	 	 	 	1	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	2	
+DEC	 	 	 	3	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+COL	 	 	4	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+KEY	 	 	 	5	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+VARDEC	 	6	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	7	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+VARDECNE	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	8	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+VARDECNE'	 	10	 	 	9	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+BLOCK	 	 	 	 	 	11	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ENE	12	 	 	 	 	 	13	12	 	 	12	12	12	 	 	12	12	12	 	 	 	12	12	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+EXP	14	 	 	 	 	 	 	16	 	 	17	18	19	 	 	20	20	20	 	 	 	21	15	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+EXP'	23	22	22	 	22	 	22	 	22	 	 	 	 	24	 	 	 	 	 	 	 	 	 	22	22	22	22	22	22	22	22	22	22	22	22	22	 	
+EXP''	25	 	 	 	 	 	 	25	 	 	25	25	25	 	26	25	25	25	 	 	 	25	25	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+KEYWORD	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	27	28	29	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+QUOTES	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	30	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+STRING	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	31	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+STRING'	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	33	 	 	32	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ARGS	34	35	 	 	 	 	 	34	 	 	34	34	34	 	 	34	34	34	 	 	 	34	34	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ARGSNE	36	 	 	 	 	 	 	36	 	 	36	36	36	 	 	36	36	36	 	 	 	36	36	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+ARGSNE'	 	38	 	 	37	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+OPLIT	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	39	40	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+IDFR	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	41	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+INTLIT	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	42	 	 	 	 	 	 	 	 	 	 	 	 	 	 	
+BINOP	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	 	43	44	45	46	47	48	49	50	51	52	53	54	55	 	
